@@ -13,7 +13,7 @@ Elon Musk's idea of saving the world from climate change was going green. And by
 
 <img src= "https://media.wired.com/photos/5d856d26e0e34e00092662b7/master/w_2560%2Cc_limit/Transpo-Tesla_19256007023034-c.jpg" height="400" width="600">
 
-[SOURCE.] (https://media.wired.com/photos/5d856d26e0e34e00092662b7/master/w_2560%2Cc_limit/Transpo-Tesla_19256007023034-c.jpg)
+.[SOURCE](https://media.wired.com/photos/5d856d26e0e34e00092662b7/master/w_2560%2Cc_limit/Transpo-Tesla_19256007023034-c.jpg)
 
 The sound of the car which runs on engine is pleasing to the eyes but we will run out of fuel one day and going full electric will be the only option for all the car companies. In this case Tesla is way ahead of any other car company. 
 
